@@ -1,6 +1,8 @@
-# Welcome my DBT materials
+# Welcome to my DBT materials!
 
 ![dbt](https://user-images.githubusercontent.com/45530179/219306194-66901a00-b886-4211-8d22-dfa69c9ec1a9.png)
+
+This repository includes files that are used in dbt Fundamental course.
 
 ## What is DBT? What is ELT?
 
