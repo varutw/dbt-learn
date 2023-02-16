@@ -1,15 +1,15 @@
-Welcome to your new dbt project!
+# Welcome my DBT materials
 
-### Using the starter project
+![dbt](https://user-images.githubusercontent.com/45530179/219306194-66901a00-b886-4211-8d22-dfa69c9ec1a9.png)
 
-Try running the following commands:
-- dbt run
-- dbt test
+## What is DBT? What is ELT?
+
+DBT (data build tool) is a tool that makes Extract-load-transform (ELT) easier. 
+
+ELT has several advantages over Extract-transform-load (ETL), such as:
+* It can transform the data using only SQL (Python, Spark are not needed).
+* Staging area is not required, hence reducing the cost of data pipeline maintenance
+
+However, source control and versioning, and data quality testing are issues for ELT. Therefore, DBT is invented to solve the pain point of ELT.
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
